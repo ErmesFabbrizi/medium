@@ -1,0 +1,164 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgb(213, 207, 207);
+  background-color: white;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.head1 img
+{
+  width: 200px;
+  height: 100px;
+}
+
+.head2 img
+ {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+ }
+
+ .head1
+ {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+ }
+
+
+ .searchbar
+ {
+  background-color: rgb(238, 235, 235);
+  padding: 5px;
+ }
+
+ .searchbar input
+ {
+  border: none;
+  background-color: transparent;
+ }
+
+ .head2
+ {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 30px;
+ }
+
+
+ .container {
+  display: flex;
+  padding-left: 300px;
+  padding-right: 300px;
+ }
+
+
+ .contenitore1 {
+  width: 60%;
+  display: flex;
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 20px;
+ }
+
+
+ .contenitore1 span
+ {
+  margin: 15px;
+ }
+
+
+ .head3 {
+  padding: 40px;
+  margin: 20px;
+  font-size: 25px;
+  border-bottom: 1px solid rgb(213, 207, 207);
+ }
+
+.head4 img
+{
+height: 30px;
+}
+
+div .img1
+{
+height: 200px;
+padding: 15px;
+}
+
+div .img2
+{
+height: 200px;
+padding: 15px;
+}
+
+div .img3
+{
+height: 200px;
+padding: 15px;
+}
+
+
+
+.testo-grande{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+}
+
+.testo-piccolo{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.contenitore2 span {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+}
+
+
+.contenitore2 {
+  width: 40%;
+  display: flex;
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 20px;
+  padding: 40px;
+  margin: 20px;
+  font-size: 25px;
+ }
+
+ .contenitore2 img{
+  height: 30px;
+ }
+
+
+ div img {
+  height: 30px;
+ }
+
+
+ .head4 {
+  margin-top: 60px;
+  border-bottom: 1px solid rgb(213, 207, 207);
+ }
+
+ .head5 {
+  margin-top: 60px;
+  border-bottom: 1px solid rgb(213, 207, 207);
+ }
+
+ .head6 {
+  margin-top: 60px;
+  border-bottom: 1px solid rgb(213, 207, 207);
+ }
+
+
+.contenitore2 span {
+  margin: 15px;
+}
